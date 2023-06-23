@@ -1,0 +1,7 @@
+{
+  "name": "hojaDeVida",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
